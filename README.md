@@ -9,8 +9,7 @@ Get started with plotting in GeoPandas.
 ### 2 Coordinate Reference Systems
 It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
 
-3
-Interactive Maps
+### 3 Interactive Maps
 Learn how to make interactive heatmaps, choropleth maps, and more!
 4
 Manipulating Geospatial Data
