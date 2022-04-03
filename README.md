@@ -15,11 +15,8 @@ Learn how to make interactive heatmaps, choropleth maps, and more!
 ### 4 Manipulating Geospatial Data
 Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
 
-5
-Proximity Analysis
+### 5 Proximity Analysis
 Measure distance, and explore neighboring points on a map.
-
-
 
 
 -------
