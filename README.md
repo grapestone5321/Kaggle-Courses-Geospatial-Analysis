@@ -19,5 +19,6 @@ Find locations with just the name of a place. And, learn how to join data based 
 Measure distance, and explore neighboring points on a map.
 
 
+
 -------
 
